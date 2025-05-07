@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jishnu921.jishnu921" alt="Visitor Count" />
 </p>
+https://countapi.xyz/hit/jishnu921/github-profile
+![Profile views](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fcountapi.xyz%2Fhit%2Fjishnu921%2Fgithub-profile)
 
 
 # 💻 Tech Stack:
