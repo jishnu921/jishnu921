@@ -1,12 +1,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jishnukumar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jishnukumar-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarjishnu2005@gmail.com) 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jishnu921.jishnu921)
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jishnu921.jishnu921" alt="Visitor Count" />
-</p>
-https://countapi.xyz/hit/jishnu921/github-profile
-![Profile views](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fcountapi.xyz%2Fhit%2Fjishnu921%2Fgithub-profile)
 
 
 # 💻 Tech Stack:
