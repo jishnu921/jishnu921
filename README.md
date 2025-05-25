@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jishnukumar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jishnukumar-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarjishnu2005@gmail.com) 
-<h1 align="center">Hello There 👋, I'm <em>Jishnu [umar](url)</em></h1>
+<h1 align="center">Hello There 👋, I'm <em>Jishnu kumar(url)</em></h1>
 
 
 <p align="center">Visitors Count 👀<br><img src="https://profile-counter.glitch.me/DedSec2050/count.svg" />  </p>
